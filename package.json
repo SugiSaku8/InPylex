@@ -1,6 +1,6 @@
 {
   "name": "inpylex",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Libraries for high-speed computation with GPUs",
   "main": "index.js",
   "scripts": {
