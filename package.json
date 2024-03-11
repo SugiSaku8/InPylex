@@ -1,11 +1,18 @@
 {
   "name": "inpylex",
   "version": "1.0.0",
-  "description": "",
+  "description": "Libraries for high-speed computation with GPUs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
-}
+  "keywords": ["Game", "GPU", "Engine"],
+  "author": "Sugisaku8",
+  "license": "MIT",
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/SugiSaku8/InPylex"
+  },
+  "homepage": "https://github.com/SugiSaku8/InPylex"
+ }
+ 
